@@ -17,7 +17,9 @@
 > [!NOTE]
 > 程序在运行过程中会动态加载资源，如您的运行设备性能一般，动画的播放可能会发生滞后
 
-支持的系统：Windows 10 及以上版本 | [下载](https://github.com/hxabcd/enji_but_pyqt/releases)
+支持的系统：Windows 10 及以上版本
+
+本版本需要先安装Python运行环境以及Pyside6、win11toast库，然后直接用python或其他支持python的IDE启动程序
 
 ## 开发
 
